@@ -1,0 +1,21 @@
+#h1, .subtitle, .posttitle {
+
+    color: rgb(253, 253, 253);
+}
+.h1 {
+    background-color: rgba(0, 0, 0, 0.599);
+    border: 3px solid white ;
+    padding: 15px ;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.h2 {
+    background-color: rgba(0, 0, 0, 0.599);
+    padding: 15px;
+    border: 3px solid white;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.link1 {color: lime; text-shadow: 0 0 8px;}
+.link2 {color: lime; text-shadow: 0 0 8px;}
+.imagem {margin-bottom: 15px; width: 60%; } 
